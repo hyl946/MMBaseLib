@@ -8,5 +8,5 @@
 #ifndef MMBase_h
 #define MMBase_h
 
-#import "MMBaseViewController"
+#import "MMBaseViewController.h"
 #endif /* MMBase_h */
